@@ -98,7 +98,8 @@
 .titleHeader{
 	top:0;
 	left:0;
-	background-color: #5bbcfa;
+	/* background-color: #5bbcfa; */
+	background-color: rgb(91, 188, 250);
 	text-align: center;
 	padding:10px 10px 6px 10px;
 	width:100%;
